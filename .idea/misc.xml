@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/activity_change_email.xml" value="0.4" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/activity_change_password.xml" value="0.264" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/activity_food.xml" value="0.25" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/activity_foods.xml" value="0.25" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/activity_history.xml" value="0.25" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/activity_math.xml" value="0.25" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/activity_profile_update.xml" value="0.264" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/activity_quzz.xml" value="0.25" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/activity_registration.xml" value="0.264" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/activity_reset_password.xml" value="0.25" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/activity_tic_tac_toe.xml" value="0.25" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/fragment_change_password.xml" value="0.25" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/fragment_leadership.xml" value="0.25" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/fragment_quiz.xml" value="0.264" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/fragment_settings.xml" value="0.25" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/layout/item_food.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/user-sh/AndroidStudioProjects/finaluri/app/src/main/res/menu/nav_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

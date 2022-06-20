@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135758765025",
+    "firebase_url": "https://finaluri-87ddf-default-rtdb.firebaseio.com",
+    "project_id": "finaluri-87ddf",
+    "storage_bucket": "finaluri-87ddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135758765025:android:d0435bf1aafb32d0f6d0a0",
+        "android_client_info": {
+          "package_name": "com.example.finaluri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135758765025-upiis2prk6k94ed05lks2iclkqag398o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDidR8no_twbUvvFvhMM5wxnooe-i6OZLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135758765025-upiis2prk6k94ed05lks2iclkqag398o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
